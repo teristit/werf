@@ -58,5 +58,6 @@ class StressCanvasApp(App):
         return root
 
 
+
 if __name__ == '__main__':
     StressCanvasApp().run()
